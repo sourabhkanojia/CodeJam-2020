@@ -1,1 +1,1 @@
-# CodeJam-2020
+# CodeJam 2020 Solutions
